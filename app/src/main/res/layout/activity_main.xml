@@ -10,16 +10,16 @@
         android:layout_height="wrap_content"
         android:id="@+id/card"
         android:layout_margin="8dp">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
-    </LinearLayout>
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="194dp"
         app:srcCompat="@drawable/images"
         android:scaleType="centerCrop" />
+    </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
