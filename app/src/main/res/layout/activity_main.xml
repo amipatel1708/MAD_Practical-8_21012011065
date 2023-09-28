@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
                 android:text="@string/app_name"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
@@ -28,7 +28,7 @@
                 android:id="@+id/card"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:layout_margin="14dp"
                 app:cardElevation="20dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -50,7 +50,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
-                        android:padding="16dp">
+                        android:padding="10dp">
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -62,23 +62,24 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="8dp"
-                            android:text="By pressing buttons,Alarm can be created And cancelled."
+                            android:text="By pressing buttons, Alarm can be created and cancelled."
                             android:textAppearance="?attr/textAppearanceBody2" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="8dp"
-                            android:text="Check Current Time By looking below real digital clock"
+                            android:text="Check Current time by looking below real digital clock."
                             android:textAppearance="?attr/textAppearanceBody2" />
 
                         <TextClock
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:layout_margin="20dp"
-                            android:format12Hour="hh:mm:ss a MMM dd yyyy"
+                            android:layout_margin="10dp"
+                            android:format12Hour="hh:mm:ss a MMM, dd yyyy"
                             android:padding="10dp"
+                            android:textStyle="bold"
                             android:textAlignment="center" />
 
                         <com.google.android.material.button.MaterialButton
@@ -96,7 +97,7 @@
                 android:id="@+id/card2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:layout_margin="14dp"
                 app:cardElevation="20dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -118,7 +119,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
-                        android:padding="16dp">
+                        android:padding="10dp">
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -132,7 +133,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:layout_margin="20dp"
+                            android:textStyle="bold"
+                            android:layout_margin="5dp"
                             android:padding="10dp"
                             android:textAlignment="center" />
 
