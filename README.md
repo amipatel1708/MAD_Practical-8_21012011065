@@ -30,16 +30,18 @@ BroadcastReceiver, Service, TextClock, TimePickerDialog, Calendar Class, SimpleD
 
 # Light Theme
 
-![LIGHT_ALARM_1](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/916a3687-20cb-4119-8ea3-4fd31addb09e)
+![LIGHT_ALARM_1](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/cf9a4ce9-3ce6-4d2e-b200-3195d4d999d1)
 
-![LIGHT_ALARM_2](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/0a57115e-edc1-4d6e-822b-8d72c944b74f)
+![LIGHT_ALARM_2](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/1df14942-d743-476f-a504-e01c058008ff)
 
-![LIGHT_ALARM_3](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/cd50952f-41d7-4c9d-8db9-c4aa2eee3b5d)
+![LIGHT_ALARM_3](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/90c5a84a-c282-4ec9-a462-2f73978046a9)
 
 # Dark Theme
 
-![DARK_ALARM_1](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/8bf11655-2c91-4853-8283-a00d85aa17cd)
+![DARK_ALARM_1](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/9ede75df-87c4-4ccb-bc34-d8b6ffc4896a)
 
-![DARK_ALARM_2](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/17d64264-8d26-4ac3-a75e-b08cc882a0a2)
+![DARK_ALARM_2](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/f1924c5d-01d8-465e-8a12-af6a27d7df96)
 
-![DARK_ALARM_3](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/bc15b697-8141-4456-9e36-c4e6b07994f8)
+![DARK_ALARM_3](https://github.com/amipatel1708/MAD_Practical-8_21012011065/assets/139481113/a45eb9f3-50fd-4dc3-9cc5-55f8913424ee)
+
+
